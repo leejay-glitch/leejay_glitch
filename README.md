@@ -49,20 +49,6 @@ Other:         Git, GitHub Actions
 
 <br/>
 
-## GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leejay-glitch&theme=radical&no-frame=true&margin-w=15&column=4" alt="trophies"/>
-</div>
-
-<br/>
-
-## Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leejay-glitch&theme=gruvbox&hide_border=true&bg_color=0D1117" alt="contribution graph" width="100%"/>
-</div>
-
-<br/>
-
 ## Featured Projects
 
 ### Aviation & Risk Analysis
